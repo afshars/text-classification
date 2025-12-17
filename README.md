@@ -1,5 +1,4 @@
 # Text Classification 
-
 This repository contains a collection of text classification projects using classical NLP methods. The projects focus on building, training, and evaluating multi-class text classification models using Python and TensorFlow/Keras. Different datasets and feature extraction techniques may be explored and compared over time.
 
 --- 
@@ -32,4 +31,5 @@ This repository contains a collection of text classification projects using clas
 
 ## Author 
 **Sarah M Afshar**
+
 Email: smartelectria@gmail.com
